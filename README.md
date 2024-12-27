@@ -11,10 +11,7 @@ License
 Installation
 Clone the repository to your local machine:
 
-bash
-Copy code
-git clone https://github.com/yourusername/sentiment-analysis-urban-planning.git
-Navigate to the project directory:
+
 
 bash
 Copy code
@@ -57,6 +54,5 @@ Matplotlib/Seaborn: For visualizing the sentiment analysis results.
 Contributing
 Fork the repository.
 Create a new branch (git checkout -b feature-name).
-Make your changes and commit them (git commit -am 'Add new feature').
 Push the changes to your fork (git push origin feature-name).
 Create a pull request for review.
